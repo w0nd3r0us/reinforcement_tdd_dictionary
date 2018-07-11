@@ -1,6 +1,7 @@
 require 'minitest/autorun'
 require 'minitest/pride'
 require './dictionary.rb'
+require 'pry'
 
 class TestDictionary < MiniTest::Test
   def setup
